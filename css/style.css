@@ -1,0 +1,249 @@
+
+
+/*
+
+    ====== navigation ======
+
+*/
+
+
+.navbar a{
+    color: #fff;
+}
+
+/*
+
+=========== top section ===========
+
+*/
+
+.tr{
+    height: 60px;
+}
+.top {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.top h2{
+    font-weight: bold;
+    font-size: 40px;
+}
+.grnb{
+    color: #0DD461;
+}
+.ico{
+    margin-left: 10%;
+}
+
+.ico a{
+  color: black; 
+  font-size: 20px; 
+  margin-left: 10%;
+}
+
+
+/*
+
+=========== services ===========
+
+*/
+
+.serv {
+    margin-top: 4%;
+    margin-bottom: 6%;
+}
+.se {
+    margin-left: 6%;
+    font-weight: bold;
+}
+
+.se2 {
+    margin-left: 6%;
+    font-size: 20px;
+}
+
+.rw1{
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-bottom: 6%;
+}
+.cico:hover{
+    background-color: #0DD461;
+    transition: .5s;
+}
+
+.cico a{
+    color: #373BFF;
+    font-size: 40px;
+    margin-left: 5%;
+}
+.cico a:hover {
+    color : #fff;
+}
+
+
+.cico h3{
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-bottom: 5%;
+    font-weight: bold;
+    
+}
+.cico h3:hover{
+    color: #fff;
+}
+
+.cico p {
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+.cico p:hover{
+    color: #fff;
+}
+
+/*
+
+=========== Projects ===========
+
+*/
+
+.rw2 {
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+
+.protxt {
+    margin-top: 30%;
+    margin-bottom: 27%;
+    margin-left: 5%;
+}
+
+
+.bar {
+    width: 10%;
+    height: 5px;
+    color: green;
+    background-color: tomato;
+    transform: translate(90deg);
+}
+
+.sm {
+    font-size: 18px;
+}
+.pros {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.btn a {
+    text-decoration: none;
+    padding: 10px 20px;
+    color: black;
+    border: 1px solid black;
+}
+
+.btn a:hover{
+    background-color: #FF6347;
+    border:2px solid #0DD461;
+}
+/*
+
+=========== Ready section ===========
+
+*/
+.rebg {
+    background-color:black;
+}
+
+.remg {
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+
+.re1{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.re3 {
+    color: #0DD461;
+}
+.remg a {
+    color: #fff;
+    padding: 10px 20px;
+    border: 1px solid white;
+    text-decoration: none;
+}
+
+.mg-t {
+    margin-top: 5%;
+}
+
+
+
+
+
+
+/*
+
+=========== Foot goes here ===========
+
+*/
+
+
+.foobg {
+    background-color: #131517;
+}
+.slink {
+    height: auto;
+}
+
+.lin{
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.lin a{
+    color: #fff;
+    margin-left: 6%;
+    text-decoration: none;
+}
+
+.cont {
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 4%;
+}
+
+.cb {
+    background-color: black;
+    margin-bottom: 5%;
+}
+
+.ff {
+    color : #fff;
+}
+
+.nm {
+    color: #0DD461;
+    font-weight: bold;
+}
+
+.cntr p {
+    text-align: center;
+    margin-bottom: 4%;
+}
+
+
+
+
+/*
+
+===========  ===========
+
+*/
+
+
