@@ -8,7 +8,7 @@
 body{
     background-image: linear-gradient(120deg, #1abc9c, #3498db);
     color: #fff;
-    font-family: "Poppins", sans-serif;
+    font-family: "Alata", sans-serif;
 }
 
 form{
@@ -35,12 +35,12 @@ form button:hover{
 }
 /* check todo list here */
 
-.todo-container{
+.container-dutu{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-.todo-list {
+.tlist {
     min-width: 30%;
     list-style: none;
 }
@@ -71,7 +71,7 @@ form button:hover{
 .complete-btn {
     background:#48c9b0;
 }
-.todo-input{
+.guta{
     border-top-left-radius: 15px;
 }
 .todo-item {

@@ -2,9 +2,9 @@
 // let's do something special 
 //all selectors here
 
-const todoInput = document.querySelector('.todo-input');
-const todoButton = document.querySelector('.todo-button');
-const todoList = document.querySelector('.todo-list');
+const todoInput = document.querySelector('.guta');
+const todoButton = document.querySelector('.btn-doto');
+const todoList = document.querySelector('.tlist');
 const filterOption = document.querySelector('.filter-todo'); 
 
 //Event listeners
